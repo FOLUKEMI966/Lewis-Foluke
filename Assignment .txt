@@ -1,0 +1,8 @@
+# Define variables
+name1 = "Lewis Omotunde"
+name2 = "Akinsola Foluke"
+department = "Computer Science"
+
+# Display the output
+print(f"Name: {name1} and {name2}")
+print(f"Department: {department}")

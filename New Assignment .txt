@@ -1,0 +1,34 @@
+public class Main {
+    public static void main(String[] args) {
+        // Define variables for Lewis Omotunde
+        String lewisName = "Lewis Omotunde";
+        int lewisAge = 30;
+        String lewisStatus = "Single";
+        String lewisState = "Lagos";
+
+        // Define variables for Akinsola Foluke
+        String folukeName = "Akinsola Foluke";
+        int folukeAge = 35;
+        String folukeStatus = "Married with 2 kids";
+        String folukeState = "Ogun";
+
+        // Define department
+        String department = "Computer Science";
+
+        // Display the output
+        System.out.println("Name: " + lewisName + " and " + folukeName);
+        System.out.println("Department: " + department);
+        System.out.println();
+
+        System.out.println(lewisName + "'s Details:");
+        System.out.println("Age: " + lewisAge);
+        System.out.println("Status: " + lewisStatus);
+        System.out.println("State of Origin: " + lewisState);
+        System.out.println();
+
+        System.out.println(folukeName + "'s Details:");
+        System.out.println("Age: " + folukeAge);
+        System.out.println("Status: " + folukeStatus);
+        System.out.println("State of Origin: " + folukeState);
+    }
+}

@@ -6,8 +6,8 @@ public class Main {
         String lewisStatus = "Single";
         String lewisState = "Lagos";
 
-        // Define variables for Akinsola Foluke
-        String folukeName = "Akinsola Foluke";
+        // Define variables for Akinsola Abike Foluke
+        String folukeName = "Akinsola Abike Foluke";
         int folukeAge = 35;
         String folukeStatus = "Married with 2 kids";
         String folukeState = "Ogun";
